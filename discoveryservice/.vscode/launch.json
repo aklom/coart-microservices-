@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DiscoveryserviceApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.ensi.coart.discoveryservice.DiscoveryserviceApplication",
+            "args": "",
+            "projectName": "discoveryservice"
+        }
+    ]
+}
